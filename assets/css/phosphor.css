@@ -1,0 +1,44 @@
+/* Phosphor Icons v2.1.1 — subset to the 23 icons used on this page */
+@font-face{font-family:"Phosphor";src:url("../fonts/Phosphor.woff2") format("woff2");font-weight:normal;font-style:normal;font-display:block}
+.ph{font-family:"Phosphor"!important;speak:never;font-style:normal;font-weight:normal;font-variant:normal;text-transform:none;line-height:1;letter-spacing:0;font-feature-settings:"liga";-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}
+.ph.ph-list:before{content:"\e2f0"}
+.ph.ph-x:before{content:"\e4f6"}
+@font-face{font-family:"Phosphor-Bold";src:url("../fonts/Phosphor-Bold.woff2") format("woff2");font-weight:normal;font-style:normal;font-display:block}
+.ph-bold{font-family:"Phosphor-Bold"!important;speak:never;font-style:normal;font-weight:normal;font-variant:normal;text-transform:none;line-height:1;letter-spacing:0;font-feature-settings:"liga";-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}
+.ph-bold.ph-terminal-window:before{content:"\eae8"}
+.ph-bold.ph-download-simple:before{content:"\e20c"}
+.ph-bold.ph-arrow-up-right:before{content:"\e092"}
+.ph-bold.ph-code:before{content:"\e1bc"}
+@font-face{font-family:"Phosphor-Fill";src:url("../fonts/Phosphor-Fill.woff2") format("woff2");font-weight:normal;font-style:normal;font-display:block}
+.ph-fill{font-family:"Phosphor-Fill"!important;speak:never;font-style:normal;font-weight:normal;font-variant:normal;text-transform:none;line-height:1;letter-spacing:0;font-feature-settings:"liga";-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}
+.ph-fill.ph-check-circle:before{content:"\e184"}
+.ph-fill.ph-map-pin:before{content:"\e316"}
+.ph-fill.ph-buildings:before{content:"\e102"}
+.ph-fill.ph-lightning:before{content:"\e2de"}
+.ph-fill.ph-shield-check:before{content:"\e40c"}
+.ph-fill.ph-trend-down:before{content:"\e4ac"}
+.ph-fill.ph-cpu:before{content:"\e610"}
+.ph-fill.ph-envelope-simple:before{content:"\e218"}
+.ph-fill.ph-phone-call:before{content:"\e3ba"}
+.ph-fill.ph-linkedin-logo:before{content:"\e2ee"}
+.ph-fill.ph-hourglass-medium:before{content:"\e2b8"}
+@font-face{font-family:"Phosphor-Duotone";src:url("../fonts/Phosphor-Duotone.woff2") format("woff2");font-weight:normal;font-style:normal;font-display:block}
+.ph-duotone{font-family:"Phosphor-Duotone"!important;speak:never;font-style:normal;font-weight:normal;font-variant:normal;text-transform:none;line-height:1;letter-spacing:0;font-feature-settings:"liga";-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}
+.ph-duotone.ph-cloud:before{content:"\e1aa";opacity:0.2}
+.ph-duotone.ph-cloud:after{content:"\e1ab";margin-left:-1em}
+.ph-duotone.ph-hard-drives:before{content:"\e2a0";opacity:0.2}
+.ph-duotone.ph-hard-drives:after{content:"\e2a1";margin-left:-1em}
+.ph-duotone.ph-cpu:before{content:"\e610";opacity:0.2}
+.ph-duotone.ph-cpu:after{content:"\e611";margin-left:-1em}
+.ph-duotone.ph-shield-check:before{content:"\e40c";opacity:0.2}
+.ph-duotone.ph-shield-check:after{content:"\e40f";margin-left:-1em}
+.ph-duotone.ph-laptop:before{content:"\e586";opacity:0.2}
+.ph-duotone.ph-laptop:after{content:"\e587";margin-left:-1em}
+.ph-duotone.ph-code:before{content:"\e1bc";opacity:0.2}
+.ph-duotone.ph-code:after{content:"\e1bd";margin-left:-1em}
+.ph-duotone.ph-globe-hemisphere-west:before{content:"\e28c";opacity:0.2}
+.ph-duotone.ph-globe-hemisphere-west:after{content:"\e28d";margin-left:-1em}
+.ph-duotone.ph-git-branch:before{content:"\e278";opacity:0.2}
+.ph-duotone.ph-git-branch:after{content:"\e279";margin-left:-1em}
+.ph-duotone.ph-hourglass-medium:before{content:"\e2b8";opacity:0.2}
+.ph-duotone.ph-hourglass-medium:after{content:"\e2b9";margin-left:-1em}
